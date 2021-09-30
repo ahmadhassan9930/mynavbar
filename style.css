@@ -103,7 +103,7 @@ label #signtwo{
     }
 }
 @media(max-width:246px){
-    nav h1{
-        font-size:17px;
+    .nav h1{
+        font-size:19px;
     }
 }
