@@ -23,7 +23,7 @@ body{
     left: 5%;
     width: 200px;
     font-size:30px;
-    top:8px;
+    top:10px;
     
 
 }
@@ -38,7 +38,7 @@ body{
     display: inline-block;
     line-height: 50px;
     margin: 0 15px;
-      top:10px;
+      top:15px;
 }
 .nav ul li a{
     position: relative;
