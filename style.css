@@ -57,18 +57,7 @@ label #signtwo{
 #res-menu{
     display: none;
 }
-.bannerarea{
-    /* background: linear-gradient(to right, rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url(ski-vermont-stowe-cr-courtesy.jpg);
-   -webkit-background-size:cover ;
-    background-size: cover;
-    background-position: center center;
-    height: 100vh; */
-}
-.bannerarea .r{
-    position: relative;
-    top: 900px;
 
-}
 
 @media(max-width:880px){
     label #signone{
