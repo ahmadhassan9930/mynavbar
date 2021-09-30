@@ -22,7 +22,7 @@ body{
     top: 0px;
     left: 5%;
     width: 200px;
-    font-size:30px;
+    font-size:33px;
 
 }
 .nav ul{
@@ -102,13 +102,13 @@ label #signtwo{
         display: block;
     }
 }
-@media(max-width:246px){
+@media(max-width:250px){
     .nav h1{
-        font-size:16px;
+        font-size: 17px;
     }
 }
-@media(max-width:165px){
-    .nav h1{
-        font-size:14px;
+@media(max-width:214px){
+    nav h1{
+        font-size: 17px;
     }
 }
